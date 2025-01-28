@@ -8,4 +8,4 @@ Aplicación en Python que permite gestionar el menú de un restaurante mediante 
 - **Visualización del menú**: Interfaz gráfica sencilla desarrollada en Tkinter.
 
 ## Vista de la Interfaz Gráfica
-![Interfaz del Menú](menu_interface.png)
+![Interfaz del Menú](menu_interface.jpg)
